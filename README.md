@@ -1,7 +1,3 @@
-<div align="center" >
-![Developer GIF](https://tenor.com/view/developer-gif-2461104302247665708)
-</div>
-
 
 <h2 align="center">Hi 👋!   My name is Yusuf,  I'm Frond-End</h2>
 <img align="right" width="370" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="SevenOne" style="margin-left: 200px;" />
