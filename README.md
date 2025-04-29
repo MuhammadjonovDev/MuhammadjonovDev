@@ -1,7 +1,5 @@
 <div align="center" >
-  
-  ![Developer GIF](https://https://tenor.com/view/developer-gif-2461104302247665708)
-
+![Developer GIF](https://media.tenor.com/b77PVOmI6JcAAAAC/developer.gif)
 </div>
 
 
