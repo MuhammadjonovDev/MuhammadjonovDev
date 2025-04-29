@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://digitalroar.ae/img/mobile-app-development.gif" alt="gif" style="max-width: 100%;" />
+ <div class="tenor-gif-embed" data-postid="1085580224038148783" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/front-end-developer-gif-1085580224038148783">Front-end Developer Meme</a>from <a href="https://tenor.com/search/front-end+developer-memes">Front-end Developer Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 
