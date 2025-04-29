@@ -1,7 +1,6 @@
-<div class="tenor-gif-embed" data-postid="2461104302247665708" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%">
-  <a href="https://tenor.com/view/developer-gif-2461104302247665708">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a>
+<div align="center" >
+  <img src="https://tenor.com/view/developer-gif-2461104302247665708" >
 </div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <h2 align="center">Hi 👋!   My name is Yusuf,  I'm Frond-End</h2>
