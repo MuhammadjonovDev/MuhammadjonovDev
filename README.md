@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+whoami;Muhammadyusuf+%E2%80%94+Frontend+Developer;%24+cat+skills.txt;HTML+%7C+CSS+%7C+JavaScript+%7C+React;%24+sudo+hire+me" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadjonovDev&label=Profilga+kirishlar&color=00c48c&style=flat-square" />
-</p>
-
 > 💭 *"Avval ishlasin, keyin chiroyli bo'lsin, eng oxirida tez bo'lsin."*
 
 <br>
@@ -110,7 +106,6 @@ Diplom loyihasi, **a'lo baho (5, 91/100)** bilan himoya qilingan.
 <p align="center">
   <a href="https://t.me/mukhammadjonov_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="mailto:maxammadjonovmuhammadyusuf33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>Shu yerga kelganingiz uchun rahmat 💚</sub></p>
