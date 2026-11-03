@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profilga+kirishlar&color=00c48c&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadjonovDev&label=Profilga+kirishlar&color=00c48c&style=flat-square" />
 </p>
 
 > 💭 *"Avval ishlasin, keyin chiroyli bo'lsin, eng oxirida tez bo'lsin."*
@@ -59,8 +59,8 @@ Kichik bizneslar uchun savdoni kuzatish va natijalarni tahlil qilish veb-ilovasi
 Diplom loyihasi, **a'lo baho (5, 91/100)** bilan himoya qilingan.
 
 <!-- Repo'ni GitHub'ga yuklagach, shu qatorni oching va REPO_NOMI ni almashtiring:
-<a href="https://github.com/USERNAME/REPO_NOMI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NOMI&theme=transparent&hide_border=true" />
+<a href="https://github.com/MuhammadjonovDev/REPO_NOMI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadjonovDev&repo=REPO_NOMI&theme=transparent&hide_border=true" />
 </a>
 -->
 
@@ -88,18 +88,18 @@ Diplom loyihasi, **a'lo baho (5, 91/100)** bilan himoya qilingan.
 ## 📊 Raqamlarda
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut-vertical&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MuhammadjonovDev&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadjonovDev&layout=donut-vertical&theme=transparent&hide_border=true" />
 </p>
 
 <details>
 <summary><b>🔥 Faollik grafigi va streak</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadjonovDev&theme=transparent&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadjonovDev&theme=minimal&hide_border=true" />
 </p>
 </details>
 
