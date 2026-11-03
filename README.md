@@ -1,32 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;%5BIsmingiz%5D+%E2%80%94+%5BKasbingiz%5D;%24+cat+hobbies.txt;kod+%2B+qahva+%3D+%E2%9C%A8;%24+sudo+hire+me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Alisher+%E2%80%94+Full-stack+dasturchi;%24+cat+hobbies.txt;kod+%2B+qahva+%3D+%E2%9C%A8;%24+sudo+hire+me" />
 </p>
 
 ```bash
-╭──────────────────────────────────────────╮
-│  user@github:~$ neofetch                 │
-│                                          │
-│  OS ........ Toshkent, UZ 🇺🇿             │
-│  Role ...... [Kasbingiz]                 │
-│  Shell ..... [VS Code / Neovim]          │
-│  Uptime .... [necha yildan beri kodlaysiz]│
-│  Fuel ...... ☕ choy / qahva              │
-╰──────────────────────────────────────────╯
+user@github:~$ neofetch
+
+  OS ........ Toshkent, UZ 🇺🇿
+  Role ...... Full-stack dasturchi
+  Shell ..... VS Code + Terminal
+  Uptime .... 3 yildan beri kodlayman
+  Fuel ...... ☕ choy / qahva
 ```
 
 ### 🎮 Qahramon kartasi
 
 ```js
 const me = {
-  name: "[Ismingiz]",
-  class: "[Kasbingiz]",
-  level: "[Junior / Middle / Senior]",
-  skills: ["JavaScript", "Python", "React"],
-  currentQuest: "[hozirgi loyiha]",
-  learning: ["[texnologiya 1]", "[texnologiya 2]"],
+  name: "Alisher",
+  class: "Full-stack dasturchi",
+  level: "Junior → Middle",
+  skills: ["JavaScript", "TypeScript", "React", "Node.js", "Python"],
+  currentQuest: "O'z pet-loyiham ustida ishlayapman",
+  learning: ["Docker", "System Design"],
   weakness: "yarim tunda 'bitta oxirgi commit' deyish",
   superpower: "xatoni 5 daqiqada topib, 5 soat tuzatish",
-  lookingFor: "qiziqarli loyihalar va jamoa"
+  lookingFor: "qiziqarli loyihalar va kuchli jamoa"
 };
 ```
 
@@ -60,7 +58,7 @@ const me = {
 <p align="center">
   <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:USERNAME@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>// bu profil ham kod kabi: doim yangilanib turadi</i></p>
