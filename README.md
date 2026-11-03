@@ -12,9 +12,9 @@
 |---|---|
 | 📍 **Joylashuv** | Xo'jaobod, Andijon, O'zbekiston 🇺🇿 |
 | 💼 **Kasb** | Frontend Developer · IT Engineer |
-| 🎓 **Ta'lim** | Andijon davlat texnika instituti, Axborot tizimlari va texnologiyalari (2022–2026, GPA 3.77/5.0) |
+| 🎓 **Ta'lim** | Andijon davlat texnika instituti, Axborot tizimlari va texnologiyalari (2022–2026)|
 | 🔨 **Qurgan loyiham** | Savdoni monitoring qilish va tahlil veb-ilovasi |
-| 🧑‍🏫 **Tajriba** | 2 yildan ortiq maktab o'quvchilariga veb-dasturlashdan dars berdim |
+| 🧑‍🏫 **Tajriba** | 2 yildan ortiq veb-dasturlashdan dars o'tish|
 | 🌐 **Tillar** | O'zbek (ona tili), Ingliz (B1) |
 | 🟢 **Holat** | Yangi imkoniyatlarga ochiqman |
 
@@ -59,18 +59,6 @@ Diplom loyihasi, **a'lo baho (5, 91/100)** bilan himoya qilingan.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadjonovDev&repo=REPO_NOMI&theme=transparent&hide_border=true" />
 </a>
 -->
-
-<br>
-
-## 🕰 Yo'lim
-
-```
-2022  ──●  Andijon davlat texnika institutida o'qishni boshladim
-2024  ──●  IT o'qituvchi: Zumar Education o'quv markazida dars bera boshladim
-2025  ──●  MATLAB Onramp sertifikati (MathWorks)
-2026  ──●  Build AI Apps with ChatGPT, DALL-E & GPT-4 sertifikati (Scrimba)
-2026  ──●  Bakalavr diplomi, IT Engineer ← hozir shu yerdaman
-```
 
 <br>
 
