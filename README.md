@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>Asboblar</b></summary>
+<summary><b>Tools</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </details>
